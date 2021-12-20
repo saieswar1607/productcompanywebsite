@@ -463,14 +463,7 @@ body {
 
 ## OUTPUT:
 
-### Home Page:
-![output](./images/homepage.png)
-### Product Page:
-![output](./images/productpage.png)
-### People Page:
-![output](./images/peoplepage.png)
-### Contact Us Page:
-![output](./images/contactuspage.png)
+
 
 ## Result:
 
